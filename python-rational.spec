@@ -1,7 +1,7 @@
 %define oname   rational
 %define name    python-%oname
 %define version 0.1
-%define release 4mdk
+%define release %mkrel 4
 
 
 Summary:       Rational numbers for python
