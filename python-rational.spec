@@ -1,7 +1,7 @@
 %define oname   rational
 %define name    python-%oname
 %define version 0.1
-%define release %mkrel 5
+%define release %mkrel 6
 
 
 Summary:       Rational numbers for python
@@ -14,7 +14,6 @@ Group:         Development/Python
 BuildRoot:     %{_tmppath}/%{name}-buildroot
 Url:           http://www.python.org/peps/pep-0239.html
 BuildRequires: python
-BuildArch:     noarch
 
 %description
 This is a python module for rational numbers, following PEP 239,
