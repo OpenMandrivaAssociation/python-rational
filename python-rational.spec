@@ -6,8 +6,8 @@
 
 Summary:       Rational numbers for python
 Name:          %{name}
-Version:       %{version}
-Release:       %{release}
+Version:       0.0.4
+Release:       1%{release}
 Source0:       %{oname}.py
 License:       LGPL
 Group:         Development/Python
